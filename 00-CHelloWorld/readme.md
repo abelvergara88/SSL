@@ -10,3 +10,12 @@ $ ./hello
 ##Redireccionando salida del programa:
 Al momento de ejecutar, se obtiene la salida al archivo output.txt de la siguiente forma
 $ ./hello > output.txt
+
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
